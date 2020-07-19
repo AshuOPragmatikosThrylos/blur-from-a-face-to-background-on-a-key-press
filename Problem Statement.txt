@@ -1,0 +1,2 @@
+Prob - 2:
+Build a program that will switch focus between the subject (a face) and background on a key press in the frame captured by your webcam or a single image passed. On each key press, program will alter the blur from subject (a face) to background and vice versa.
